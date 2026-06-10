@@ -3,8 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Get top dollar for your gold in California. Licensed gold buyer with on-the-road service. Live testing, fast cash. icellphonez">
-        <title>ICELLGOLD213 | Sell Gold California • Top Cash Offers</title>
+        <meta name="description" content="Get top dollar for your gold in California. Licensed gold buyer with on-the-road service. Live testing, fast cash. Icellgold213">
+        <title>Icellgold213 | Sell Gold California • Top Cash Offers</title>
         
         <script src="https://cdn.tailwindcss.com"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
@@ -20,11 +20,11 @@
             .navy-bg { background-color: #0F172A; }
             
             .hero-bg {
-    background-image: linear-gradient(rgba(10,10,10,0.75), rgba(10,10,10,0.85)), 
+                background-image: linear-gradient(rgba(10,10,10,0.75), rgba(10,10,10,0.85)), 
                      url('assets/images/hero.jpg'); /* ← Change this */
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+                background-size: cover;
+                background-position: center;
+                background-attachment: fixed;
             }
             
             .gold-glow:hover {
@@ -35,7 +35,6 @@
                 font-family: 'Space Grotesk', sans-serif;
             }
             
-            /* Smooth scroll */
             html {
                 scroll-behavior: smooth;
             }
@@ -53,7 +52,7 @@
        <nav class="fixed top-0 w-full navy-bg border-b border-gray-800 z-50">
         <div class="max-w-7xl mx-auto px-6 py-5 flex justify-between items-center">
             <div class="flex items-center gap-3">
-                <span class="text-3xl font-bold tracking-tighter gold-text">icellphonez</span>
+                <span class="text-3xl font-bold tracking-tighter gold-text">Icellgold213</span>
             </div>
             
             <!-- Desktop Menu -->
@@ -122,16 +121,16 @@
                 </button>
                 
                 <div class="flex gap-4">
-                    <a href="https://instagram.com/icellgold213" target="_blank" 
-                       class="px-8 py-7 text-xl font-semibold border-2 border-white/80 hover:border-[#FFD700] text-white rounded-3xl transition flex items-center gap-4 hover:bg-white/10">
-                        <i class="fa-brands fa-instagram text-4xl"></i>
-                        <span>INSTAGRAM</span>
-                    </a>
-                    
                     <a href="https://tiktok.com/@icellgold213" target="_blank" 
                        class="px-8 py-7 text-xl font-semibold border-2 border-white/80 hover:border-[#FFD700] text-white rounded-3xl transition flex items-center gap-4 hover:bg-white/10">
                         <i class="fa-brands fa-tiktok text-4xl"></i>
                         <span>TIKTOK</span>
+                    </a>
+                    
+                    <a href="https://instagram.com/icellgold213" target="_blank" 
+                       class="px-8 py-7 text-xl font-semibold border-2 border-white/80 hover:border-[#FFD700] text-white rounded-3xl transition flex items-center gap-4 hover:bg-white/10">
+                        <i class="fa-brands fa-instagram text-4xl"></i>
+                        <span>INSTAGRAM</span>
                     </a>
                 </div>
 
@@ -161,73 +160,35 @@
         </div>
     </section>
 
-        <!-- QUOTE / WHATSAPP SECTION -->
-        <section id="quote-section" class="navy-bg py-24">
-            <div class="max-w-4xl mx-auto px-6 text-center">
-                <h2 class="text-5xl font-bold tracking-tighter mb-6">Ready to Get a Quote?</h2>
-                <p class="text-2xl text-gray-300 mb-10">Message us on WhatsApp with your photos and details.<br>We usually reply in minutes.</p>
-                
-                <a href="https://wa.me/1YOURPHONENUMBER?text=Hi%20icellphonez%2C%20I%20want%20to%20sell%20my%20gold.%20Here%20are%20some%20photos%3A" 
-                   target="_blank"
-                   class="inline-flex items-center gap-4 bg-[#25D366] hover:bg-[#20B958] text-black font-bold text-2xl px-12 py-7 rounded-3xl transition-all hover:scale-105 shadow-2xl">
-                    <i class="fa-brands fa-whatsapp text-4xl"></i>
-                    <span>CHAT ON WHATSAPP NOW</span>
-                </a>
-    
-                <div class="mt-12 text-gray-400">
-                    Or text/call: <span class="text-white font-medium">+1 YOUR PHONE NUMBER</span>
-                </div>
-    
-                <div class="mt-16 text-sm text-gray-500">
-                    💡 Tip: Take clear photos in good lighting (weight, stamps, close-ups) for faster & better offers.
-                </div>
+    <!-- QUOTE / WHATSAPP SECTION -->
+    <section id="quote-section" class="navy-bg py-24">
+        <div class="max-w-4xl mx-auto px-6 text-center">
+            <h2 class="text-5xl font-bold tracking-tighter mb-6">Ready to Get a Quote?</h2>
+            <p class="text-2xl text-gray-300 mb-10">Message us on WhatsApp with your photos and details.<br>We usually reply in minutes.</p>
+            
+            <a href="https://wa.me/1YOURPHONENUMBER?text=Hi%20Icellgold213%2C%20I%20want%20to%20sell%20my%20gold.%20Here%20are%20some%20photos%3A" 
+               target="_blank"
+               class="inline-flex items-center gap-4 bg-[#25D366] hover:bg-[#20B958] text-black font-bold text-2xl px-12 py-7 rounded-3xl transition-all hover:scale-105 shadow-2xl">
+                <i class="fa-brands fa-whatsapp text-4xl"></i>
+                <span>CHAT ON WHATSAPP NOW</span>
+            </a>
+
+            <div class="mt-12 text-gray-400">
+                Or text/call: <span class="text-white font-medium">+1 YOUR PHONE NUMBER</span>
             </div>
-        </section>
-                
-                <button type="submit" class="md:col-span-2 py-6 text-xl font-bold bg-[#FFD700] text-black rounded-3xl hover:scale-[1.02] transition">
-                    SUBMIT FOR INSTANT QUOTE →
-                </button>
-            </form>
+
+            <div class="mt-16 text-sm text-gray-500">
+                💡 Tip: Take clear photos in good lighting (weight, stamps, close-ups) for faster & better offers.
+            </div>
         </div>
     </section>
 
-    <script>
-        // Quote Form Alert
-        document.getElementById('quote-form').addEventListener('submit', function(e) {
-            e.preventDefault();
-            alert("✅ Quote request received! (We'll connect real emails later)");
-        });
-
-        // Mobile Menu Functionality
-        const mobileMenu = document.getElementById('mobile-menu');
-        const openBtn = document.getElementById('mobile-menu-button');
-        const closeBtn = document.getElementById('close-mobile-menu');
-        const mobileLinks = document.querySelectorAll('.mobile-link');
-
-        openBtn.addEventListener('click', () => {
-            mobileMenu.classList.remove('hidden');
-            mobileMenu.classList.add('flex', 'flex-col');
-        });
-
-        closeBtn.addEventListener('click', () => {
-            mobileMenu.classList.add('hidden');
-            mobileMenu.classList.remove('flex');
-        });
-
-        // Close menu when clicking a link
-        mobileLinks.forEach(link => {
-            link.addEventListener('click', () => {
-                mobileMenu.classList.add('hidden');
-                mobileMenu.classList.remove('flex');
-            });
-        });
-    </script>
     <!-- HOW IT WORKS - Glamour Version -->
     <section id="how" class="py-24 navy-bg">
         <div class="max-w-7xl mx-auto px-6">
             <div class="text-center mb-16">
                 <span class="inline-block px-5 py-2 bg-[#FFD700]/10 text-[#FFD700] text-sm font-medium rounded-full mb-4">THE PROCESS</span>
-                <h2 class="text-5xl font-bold tracking-tighter">How icellphonez Works</h2>
+                <h2 class="text-5xl font-bold tracking-tighter">How Icellgold213 Works</h2>
                 <p class="text-xl text-gray-400 mt-4 max-w-lg mx-auto">Simple. Transparent. Filmed. California road hustle at its best.</p>
             </div>
 
@@ -258,6 +219,7 @@
             </div>
         </div>
     </section>
+
     <!-- RECENT DEALS - High Impact Social Proof -->
     <section id="deals" class="py-24 bg-[#0A0A0A]">
         <div class="max-w-7xl mx-auto px-6">
@@ -308,61 +270,63 @@
             </div>
         </div>
     </section>
-        <!-- SERVICES SECTION -->
-        <section id="services" class="py-24 navy-bg">
-            <div class="max-w-7xl mx-auto px-6">
-                <div class="text-center mb-16">
-                    <span class="inline-block px-5 py-2 bg-[#FFD700]/10 text-[#FFD700] text-sm font-medium rounded-full mb-4">WHAT WE DO</span>
-                    <h2 class="text-5xl font-bold tracking-tighter mb-4">Premium Gold Services</h2>
-                    <p class="text-xl text-gray-400 max-w-lg mx-auto">From buying to restoration — done right, on the road, with full transparency.</p>
+
+    <!-- SERVICES SECTION -->
+    <section id="services" class="py-24 navy-bg">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="text-center mb-16">
+                <span class="inline-block px-5 py-2 bg-[#FFD700]/10 text-[#FFD700] text-sm font-medium rounded-full mb-4">WHAT WE DO</span>
+                <h2 class="text-5xl font-bold tracking-tighter mb-4">Premium Gold Services</h2>
+                <p class="text-xl text-gray-400 max-w-lg mx-auto">From buying to restoration — done right, on the road, with full transparency.</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Service 1 -->
+                <div class="bg-zinc-950 border border-white/10 rounded-3xl p-10 hover:border-[#FFD700] transition-all group">
+                    <div class="text-5xl mb-6">🏛️</div>
+                    <h3 class="text-3xl font-bold mb-4">Gold Buying</h3>
+                    <ul class="space-y-3 text-gray-400">
+                        <li class="flex items-center gap-3"><span class="text-[#FFD700]">•</span> Jewelry & Chains</li>
+                        <li class="flex items-center gap-3"><span class="text-[#FFD700]">•</span> Scrap Gold</li>
+                        <li class="flex items-center gap-3"><span class="text-[#FFD700]">•</span> Coins & Bars</li>
+                        <li class="flex items-center gap-3"><span class="text-[#FFD700]">•</span> All Karats (10k-24k)</li>
+                    </ul>
+                    <p class="mt-8 text-sm text-gray-500">Top market prices. Live testing. Same-day cash.</p>
                 </div>
-    
-                <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-                    <!-- Service 1 -->
-                    <div class="bg-zinc-950 border border-white/10 rounded-3xl p-10 hover:border-[#FFD700] transition-all group">
-                        <div class="text-5xl mb-6">🏛️</div>
-                        <h3 class="text-3xl font-bold mb-4">Gold Buying</h3>
-                        <ul class="space-y-3 text-gray-400">
-                            <li class="flex items-center gap-3"><span class="text-[#FFD700]">•</span> Jewelry & Chains</li>
-                            <li class="flex items-center gap-3"><span class="text-[#FFD700]">•</span> Scrap Gold</li>
-                            <li class="flex items-center gap-3"><span class="text-[#FFD700]">•</span> Coins & Bars</li>
-                            <li class="flex items-center gap-3"><span class="text-[#FFD700]">•</span> All Karats (10k-24k)</li>
-                        </ul>
-                        <p class="mt-8 text-sm text-gray-500">Top market prices. Live testing. Same-day cash.</p>
-                    </div>
-    
-                    <!-- Service 2 -->
-                    <div class="bg-zinc-950 border border-white/10 rounded-3xl p-10 hover:border-[#FFD700] transition-all group">
-                        <div class="text-5xl mb-6">🧼</div>
-                        <h3 class="text-3xl font-bold mb-4">Cleaning & Restoration</h3>
-                        <p class="text-gray-400">Professional ultrasonic cleaning and restoration to bring old gold back to life. Makes a huge difference in value.</p>
-                        <div class="mt-8 inline-block px-5 py-2 bg-white/5 text-xs rounded-full">Popular Add-on</div>
-                    </div>
-    
-                    <!-- Service 3 -->
-                    <div class="bg-zinc-950 border border-white/10 rounded-3xl p-10 hover:border-[#FFD700] transition-all group">
-                        <div class="text-5xl mb-6">🚗</div>
-                        <h3 class="text-3xl font-bold mb-4">On-Road Service</h3>
-                        <p class="text-gray-400">We come to you. Serving all of California:</p>
-                        <div class="mt-6 flex flex-wrap gap-2">
-                            <span class="text-xs bg-white/10 px-4 py-2 rounded-full">Los Angeles</span>
-                            <span class="text-xs bg-white/10 px-4 py-2 rounded-full">Orange County</span>
-                            <span class="text-xs bg-white/10 px-4 py-2 rounded-full">Fresno</span>
-                            <span class="text-xs bg-white/10 px-4 py-2 rounded-full">Inland Empire</span>
-                            <span class="text-xs bg-white/10 px-4 py-2 rounded-full">+ More</span>
-                        </div>
-                    </div>
+
+                <!-- Service 2 -->
+                <div class="bg-zinc-950 border border-white/10 rounded-3xl p-10 hover:border-[#FFD700] transition-all group">
+                    <div class="text-5xl mb-6">🧼</div>
+                    <h3 class="text-3xl font-bold mb-4">Cleaning & Restoration</h3>
+                    <p class="text-gray-400">Professional ultrasonic cleaning and restoration to bring old gold back to life. Makes a huge difference in value.</p>
+                    <div class="mt-8 inline-block px-5 py-2 bg-white/5 text-xs rounded-full">Popular Add-on</div>
                 </div>
-    
-                <div class="text-center mt-16">
-                    <button onclick="document.getElementById('quote-section').scrollIntoView({behavior: 'smooth'})" 
-                            class="px-12 py-6 text-xl font-bold bg-[#FFD700] text-black rounded-3xl hover:scale-105 transition">
-                        GET YOUR CUSTOM QUOTE →
-                    </button>
+
+                <!-- Service 3 -->
+                <div class="bg-zinc-950 border border-white/10 rounded-3xl p-10 hover:border-[#FFD700] transition-all group">
+                    <div class="text-5xl mb-6">🚗</div>
+                    <h3 class="text-3xl font-bold mb-4">On-Road Service</h3>
+                    <p class="text-gray-400">We come to you. Serving all of California:</p>
+                    <div class="mt-6 flex flex-wrap gap-2">
+                        <span class="text-xs bg-white/10 px-4 py-2 rounded-full">Los Angeles</span>
+                        <span class="text-xs bg-white/10 px-4 py-2 rounded-full">Orange County</span>
+                        <span class="text-xs bg-white/10 px-4 py-2 rounded-full">Fresno</span>
+                        <span class="text-xs bg-white/10 px-4 py-2 rounded-full">Inland Empire</span>
+                        <span class="text-xs bg-white/10 px-4 py-2 rounded-full">+ More</span>
+                    </div>
                 </div>
             </div>
-        </section>
-                <!-- TRANSPARENCY & COMPLIANCE -->
+
+            <div class="text-center mt-16">
+                <button onclick="document.getElementById('quote-section').scrollIntoView({behavior: 'smooth'})" 
+                        class="px-12 py-6 text-xl font-bold bg-[#FFD700] text-black rounded-3xl hover:scale-105 transition">
+                    GET YOUR CUSTOM QUOTE →
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- TRANSPARENCY & COMPLIANCE -->
     <section class="py-24 bg-[#0A0A0A]">
         <div class="max-w-7xl mx-auto px-6">
             <div class="text-center mb-16">
@@ -422,61 +386,63 @@
             </div>
         </div>
     </section>
-        <!-- TESTIMONIALS & SOCIAL PROOF -->
-        <section id="testimonials" class="py-24 bg-[#0A0A0A]">
-            <div class="max-w-7xl mx-auto px-6">
-                <div class="text-center mb-16">
-                    <span class="inline-block px-5 py-2 bg-[#FFD700]/10 text-[#FFD700] text-sm font-medium rounded-full mb-4">REAL SELLERS</span>
-                    <h2 class="text-5xl font-bold tracking-tighter">What People Are Saying</h2>
-                </div>
-    
-                <div class="grid md:grid-cols-3 gap-8">
-                    <!-- Testimonial 1 -->
-                    <div class="bg-zinc-950 border border-white/10 rounded-3xl p-8">
-                        <div class="text-[#FFD700] text-6xl mb-6">“</div>
-                        <p class="text-lg text-gray-200 mb-8">"Drove to me at 10pm in LA. Tested everything live. Paid me top dollar with no drama. Real one."</p>
-                        <div class="flex items-center gap-4">
-                            <div class="w-12 h-12 bg-gray-700 rounded-full"></div>
-                            <div>
-                                <div class="font-semibold">Mike T. - Los Angeles</div>
-                                <div class="text-sm text-gray-500">Sold gold chains</div>
-                            </div>
-                        </div>
-                    </div>
-    
-                    <!-- Testimonial 2 -->
-                    <div class="bg-zinc-950 border border-white/10 rounded-3xl p-8">
-                        <div class="text-[#FFD700] text-6xl mb-6">“</div>
-                        <p class="text-lg text-gray-200 mb-8">"Best experience selling gold. He explained everything, showed the testing on camera, and paid me more than other buyers. Highly recommend."</p>
-                        <div class="flex items-center gap-4">
-                            <div class="w-12 h-12 bg-gray-700 rounded-full"></div>
-                            <div>
-                                <div class="font-semibold">Sarah K. - Orange County</div>
-                                <div class="text-sm text-gray-500">Sold jewelry lot</div>
-                            </div>
-                        </div>
-                    </div>
-    
-                    <!-- Testimonial 3 -->
-                    <div class="bg-zinc-950 border border-white/10 rounded-3xl p-8">
-                        <div class="text-[#FFD700] text-6xl mb-6">“</div>
-                        <p class="text-lg text-gray-200 mb-8">"Came to Fresno same day. Cleaned my pieces and gave me way better price than the shops. 10/10."</p>
-                        <div class="flex items-center gap-4">
-                            <div class="w-12 h-12 bg-gray-700 rounded-full"></div>
-                            <div>
-                                <div class="font-semibold">Ramon G. - Fresno</div>
-                                <div class="text-sm text-gray-500">Sold scrap gold</div>
-                            </div>
+
+    <!-- TESTIMONIALS & SOCIAL PROOF -->
+    <section id="testimonials" class="py-24 bg-[#0A0A0A]">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="text-center mb-16">
+                <span class="inline-block px-5 py-2 bg-[#FFD700]/10 text-[#FFD700] text-sm font-medium rounded-full mb-4">REAL SELLERS</span>
+                <h2 class="text-5xl font-bold tracking-tighter">What People Are Saying</h2>
+            </div>
+
+            <div class="grid md:grid-cols-3 gap-8">
+                <!-- Testimonial 1 -->
+                <div class="bg-zinc-950 border border-white/10 rounded-3xl p-8">
+                    <div class="text-[#FFD700] text-6xl mb-6">“</div>
+                    <p class="text-lg text-gray-200 mb-8">"Drove to me at 10pm in LA. Tested everything live. Paid me top dollar with no drama. Real one."</p>
+                    <div class="flex items-center gap-4">
+                        <div class="w-12 h-12 bg-gray-700 rounded-full"></div>
+                        <div>
+                            <div class="font-semibold">Mike T. - Los Angeles</div>
+                            <div class="text-sm text-gray-500">Sold gold chains</div>
                         </div>
                     </div>
                 </div>
-    
-                <div class="text-center mt-12 text-gray-400">
-                    400k+ people following the hustle on TikTok & Instagram
+
+                <!-- Testimonial 2 -->
+                <div class="bg-zinc-950 border border-white/10 rounded-3xl p-8">
+                    <div class="text-[#FFD700] text-6xl mb-6">“</div>
+                    <p class="text-lg text-gray-200 mb-8">"Best experience selling gold. He explained everything, showed the testing on camera, and paid me more than other buyers. Highly recommend."</p>
+                    <div class="flex items-center gap-4">
+                        <div class="w-12 h-12 bg-gray-700 rounded-full"></div>
+                        <div>
+                            <div class="font-semibold">Sarah K. - Orange County</div>
+                            <div class="text-sm text-gray-500">Sold jewelry lot</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 3 -->
+                <div class="bg-zinc-950 border border-white/10 rounded-3xl p-8">
+                    <div class="text-[#FFD700] text-6xl mb-6">“</div>
+                    <p class="text-lg text-gray-200 mb-8">"Came to Fresno same day. Cleaned my pieces and gave me way better price than the shops. 10/10."</p>
+                    <div class="flex items-center gap-4">
+                        <div class="w-12 h-12 bg-gray-700 rounded-full"></div>
+                        <div>
+                            <div class="font-semibold">Ramon G. - Fresno</div>
+                            <div class="text-sm text-gray-500">Sold scrap gold</div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </section>
-            <!-- FAQ SECTION -->
+
+            <div class="text-center mt-12 text-gray-400">
+                400k+ people following the hustle on TikTok & Instagram
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ SECTION -->
     <section id="faq" class="py-24 navy-bg">
         <div class="max-w-4xl mx-auto px-6">
             <div class="text-center mb-16">
@@ -506,7 +472,7 @@
                         Are you licensed?
                         <span class="text-2xl group-open:rotate-45 transition">＋</span>
                     </summary>
-                    <p class="text-gray-400 mt-6">Yes. We are a fully licensed Secondhand Dealer in California and follow all state regulations.</p>
+                    <p class="text-gray-400 mt-6">Yes. We are a fully licensed Secondhand Dealer in California and follow all state regulations including the 30-day hold policy.</p>
                 </details>
 
                 <details class="bg-zinc-950 border border-white/10 rounded-3xl p-8 group">
@@ -527,18 +493,19 @@
             </div>
         </div>
     </section>
-            <!-- FOOTER -->
+
+    <!-- FOOTER -->
     <footer class="bg-black border-t border-white/10 py-16 mt-20">
         <div class="max-w-7xl mx-auto px-6">
             <div class="grid md:grid-cols-4 gap-10">
                 <!-- Column 1 -->
                 <div>
-                    <div class="text-3xl font-bold tracking-tighter gold-text mb-4">icellphonez</div>
+                    <div class="text-3xl font-bold tracking-tighter gold-text mb-4">Icellgold213</div>
                     <p class="text-gray-400">Raw California Gold Hustle.<br>Real Deals. Real Cash.</p>
                     
                     <div class="mt-8 flex gap-5 text-3xl">
-                       <a href="https://instagram.com/icellgold213" target="_blank" class="hover:text-[#FFD700]"><i class="fa-brands fa-instagram"></i></a>
-                       <a href="https://tiktok.com/@icellgold213" target="_blank" class="hover:text-[#FFD700]"><i class="fa-brands fa-tiktok"></i></a>
+                        <a href="https://tiktok.com/@icellgold213" target="_blank" class="hover:text-[#FFD700]"><i class="fa-brands fa-tiktok"></i></a>
+                        <a href="https://instagram.com/icellgold213" target="_blank" class="hover:text-[#FFD700]"><i class="fa-brands fa-instagram"></i></a>
                     </div>
                 </div>
 
@@ -546,9 +513,9 @@
                 <div>
                     <h4 class="font-semibold mb-5 text-lg">Quick Links</h4>
                     <ul class="space-y-3 text-gray-400">
-                        <li><a href="index.html#how" class="hover:text-white">How It Works</a></li>
-                        <li><a href="index.html#services" class="hover:text-white">Services</a></li>
-                        <li><a href="index.html#deals" class="hover:text-white">Recent Deals</a></li>
+                        <li><a href="#how" class="hover:text-white">How It Works</a></li>
+                        <li><a href="#services" class="hover:text-white">Services</a></li>
+                        <li><a href="#deals" class="hover:text-white">Recent Deals</a></li>
                         <li><a href="shop.html" class="hover:text-white">Shop Gold</a></li>
                     </ul>
                 </div>
@@ -574,7 +541,7 @@
                         <a href="tel:+1YOURPHONENUMBER" class="text-[#FFD700] font-medium">+1 YOUR PHONE NUMBER</a>
                     </p>
                     
-                    <a href="https://wa.me/1YOURPHONENUMBER?text=Hi%20icellphonez%2C%20I%20want%20to%20sell%20my%20gold" 
+                    <a href="https://wa.me/1YOURPHONENUMBER?text=Hi%20Icellgold213%2C%20I%20want%20to%20sell%20my%20gold" 
                        target="_blank"
                        class="mt-8 inline-flex items-center gap-3 bg-[#25D366] text-black font-bold px-8 py-4 rounded-2xl hover:bg-[#20B958]">
                         <i class="fa-brands fa-whatsapp text-2xl"></i>
@@ -584,8 +551,35 @@
             </div>
 
             <div class="text-center text-xs text-gray-500 mt-16 pt-8 border-t border-white/10">
-                © 2026 icellgold213 • Licensed Secondhand Dealer • California<br>
+                © 2026 Icellgold213 • Licensed Secondhand Dealer • California<br>
                 All transactions compliant with California law.
             </div>
         </div>
     </footer>
+
+    <script>
+        // Mobile Menu Functionality
+        const mobileMenu = document.getElementById('mobile-menu');
+        const openBtn = document.getElementById('mobile-menu-button');
+        const closeBtn = document.getElementById('close-mobile-menu');
+        const mobileLinks = document.querySelectorAll('.mobile-link');
+
+        openBtn.addEventListener('click', () => {
+            mobileMenu.classList.remove('hidden');
+            mobileMenu.classList.add('flex', 'flex-col');
+        });
+
+        closeBtn.addEventListener('click', () => {
+            mobileMenu.classList.add('hidden');
+            mobileMenu.classList.remove('flex');
+        });
+
+        mobileLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+                mobileMenu.classList.remove('flex');
+            });
+        });
+    </script>
+</body>
+</html>
